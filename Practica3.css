@@ -1,0 +1,69 @@
+body {
+   background-color: rgb(17, 18, 19); background-size: cover;
+   font-family: sans-serif; 
+   
+}
+.box {
+    background-color: rgba(245, 236, 236, 0.97);
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    text-align: center; 
+    padding-top: 60px;
+    padding-bottom: 60px;
+    margin: 0 auto;
+  
+}
+
+.perfil img{
+    display: block;
+    width: 30%;
+    border-radius: 50%; 
+    margin: 0px auto;
+    filter: sepia(100%);
+}
+
+.presentacion img {
+    width: 50px;
+    height: auto;
+}
+
+.bloque {
+    display: block;
+    width: 60%;
+    clear: both;
+    overflow: auto;
+    padding: 15px 0px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 2px 1px 10px 3px rgba(120 109 109 / 90%);
+    margin: 0 auto 20px auto;
+}
+
+   
+.icono img {
+    width: 50px;
+    height: 50px;
+}
+
+.icono {
+    float: left;
+    width: 50%;
+}
+
+.bloque p {
+    float: left;
+    color: black;
+    width: 50%;
+    text-align: left; 
+}
+a.bloque:hover {
+    text-decoration: none;
+    opacity: 0.5;
+    
+    
+    
+   
+    
+    
+}
