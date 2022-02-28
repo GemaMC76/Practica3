@@ -30,12 +30,12 @@ body {
 
 .bloque {
     display: block;
-    width: 60%;
+    width: 55%;
     clear: both;
     overflow: auto;
     padding: 15px 0px;
     background-color: rgb(255, 255, 255);
-    border-radius: 15px;
+    border-radius: 5px;
     box-shadow: 2px 1px 10px 3px rgba(120 109 109 / 90%);
     margin: 0 auto 20px auto;
 }
@@ -48,13 +48,13 @@ body {
 
 .icono {
     float: left;
-    width: 50%;
+    width: 32%;
 }
 
 .bloque p {
     float: left;
     color: black;
-    width: 50%;
+    width: 68%;
     text-align: left; 
 }
 a.bloque:hover {
